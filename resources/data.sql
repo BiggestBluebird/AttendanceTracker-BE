@@ -1,0 +1,1 @@
+INSERT INTO events(id, title, date, violation, description) values (Long, 'BOLM', '2021-01-05', Tardy', 'Comment');
